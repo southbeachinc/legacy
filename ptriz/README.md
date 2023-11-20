@@ -1,0 +1,1 @@
+A series of articles by Howard Smith, and published by BPTrends.com (now BPTrends.info) introducing the BPM community to TRIZ and to the potential of applying TRIZ to business process design and other management consulting practices. 
