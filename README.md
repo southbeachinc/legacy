@@ -1,3 +1,4 @@
-# legacy
-Legacy whitepapers, presentations and articles published during the early development of Southbeach  
-May include more recent papers, if available
+# whitepapers
+Whitepapers, presentations and articles relating to Southbeach Notation and Southbeach Modeller
+Many of these documents were developed during the early phase of the development of Southbeach
+Newer papers can also be found here
